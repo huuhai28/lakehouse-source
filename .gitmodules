@@ -1,0 +1,30 @@
+[submodule "debezium/debezium-2.4.0.Final"]
+	path = debezium/debezium-2.4.0.Final
+	url = https://github.com/debezium/debezium.git
+[submodule "polaris/polaris-1.5.0"]
+	path = polaris/polaris-1.5.0
+	url = https://github.com/apache/polaris.git
+[submodule "airflow/airflow/airflow-2.7.3"]
+	path = airflow/airflow/airflow-2.7.3
+	url = https://github.com/apache/airflow.git
+[submodule "soda/soda-core-4.17.0"]
+	path = soda/soda-core-4.17.0
+	url = https://github.com/sodadata/soda-core.git
+[submodule "openmetadata/openmetadata"]
+	path = openmetadata/openmetadata
+	url = https://github.com/open-metadata/OpenMetadata.git
+[submodule "opensearch/OpenSearch-2.13.0"]
+	path = opensearch/OpenSearch-2.13.0
+	url = https://github.com/opensearch-project/OpenSearch.git
+[submodule "minio/minio-RELEASE.2025-09-07T16-13-09Z"]
+	path = minio/minio-RELEASE.2025-09-07T16-13-09Z
+	url = https://github.com/minio/minio.git
+[submodule "kafka/kafka-source"]
+	path = kafka/kafka-source
+	url = https://github.com/apache/kafka.git
+[submodule "trino/trino-455"]
+	path = trino/trino-455
+	url = https://github.com/trinodb/trino.git
+[submodule "flink/flink-1.18.1"]
+	path = flink/flink-1.18.1
+	url = https://github.com/apache/flink.git
