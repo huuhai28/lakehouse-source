@@ -1,0 +1,39 @@
+# Source repositories cloned from upstream
+airflow/
+debezium/
+flink/
+kafka/
+minio/
+openmetadata/
+opensearch/
+polaris/
+soda/
+trino/
+
+# Secrets and environment
+.env
+.env.*
+*.pem
+*.key
+*secret*
+*password*
+credentials*
+configuration.yml
+
+# Data and logs
+data/
+logs/
+*.log
+*.pid
+
+# Build and dependency output
+target/
+build/
+build-target/
+.gradle/
+.m2/
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
